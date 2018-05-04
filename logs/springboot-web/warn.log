@@ -1,0 +1,1 @@
+[2018-04-30 10:51:04,744][main][WARN][org.hibernate.id.UUIDHexGenerator:42] HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
